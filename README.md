@@ -1,5 +1,5 @@
 # Data Science Projects
-This repository contains a collection of data science projects using Python. Each project is designed to explore and apply data analysis, machine learning, and visualization techniques. The following are some of the projects in the repository
+This repository contains a collection of data science projects using Python. Each project is designed to explore and apply data analysis, machine learning, and visualization techniques. 
 
 ----
 
