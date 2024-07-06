@@ -68,7 +68,7 @@ The Random Forest Regressor outperformed other models with lower MAE and RMSE, s
 
 ----
 
-# Booking Cancelation Classification Project
+# Booking Cancelation Prediction
 
 This directory contains scripts and notebooks for analyzing booking data (`booking.csv`) and implementing machine learning models for classification tasks.
 
