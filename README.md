@@ -7,7 +7,7 @@ This repository contains a collection of data science projects using Python. Eac
 
 This directory contains scripts and data for predicting health insurance costs using machine learning models. The dataset used (`insurance.csv`) includes information about individuals, such as age, sex, BMI, number of children, smoking habit, and region.
 
-## Repository Structure
+## Directory Structure
 
 - **insurance.csv**: Dataset containing health insurance data.
 - **data-analysis.ipynb**: Jupyter Notebook for data exploration and analysis.
@@ -62,7 +62,7 @@ The Random Forest Regressor outperformed other models with lower MAE and RMSE, s
 
 ## Usage
 
-1. Ensure Python 3.x is installed along with necessary libraries (`pandas`, `scikit-learn`, `numpy`).
+1. Ensure you have Python and necessary libraries installed (`pandas`, `scikit-learn`, `numpy`).
 2. Open and run the Jupyter Notebooks (`data-analysis.ipynb` and `machine-learning.ipynb`) to explore data and train models.
 3. Adjust parameters or add new features as needed for further analysis or model improvement.
 
@@ -72,7 +72,7 @@ The Random Forest Regressor outperformed other models with lower MAE and RMSE, s
 
 This directory contains scripts and notebooks for analyzing booking data (`booking.csv`) and implementing machine learning models for classification tasks.
 
-## Repository Structure
+## Directory Structure
 
 - **booking.csv**: Raw data file containing booking information.
 - **data-analysis.ipynb**: Jupyter Notebook for data exploration and analysis.
